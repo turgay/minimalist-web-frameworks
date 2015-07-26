@@ -1,4 +1,9 @@
-Name | Description / Comments | Github Repo | License
+Minimalist Web Frameworks
+=========================
+
+List of simple and lightweight web frameworks.
+
+Name | Description/Comments | Github Repo | License
 --- | --- | --- | ---
 [Spark](http://www.sparkjava.com/) | A tiny Sinatra inspired framework for creating web applications in Java 8 with minimal effort. (Spark has unfourtunate project name. Dont confuse with Apache Spark.) | https://github.com/perwendel/spark | Apache 2.0
 [Play Framework](http://www.playframework.com/) | The High Velocity Web Framework For Java and Scala | https://github.com/playframework/playframework | Apache 2.0
