@@ -17,6 +17,7 @@ Name | Description/Comments | Github Repo | License
 ## Go
 Name | Description/Comments | Github Repo | License
 --- | --- | --- | ---
+[Web.go Framework](http://webgo.io/) |The easiest way to create web applications with Go | https://github.com/hoisie/web |MIT
 [Beego Framework](http://beego.me/) |An open source framework to build and develop your applications in the Go way | https://github.com/astaxie/beego  |Apache 2.0
 [Martini](http://martini.codegangsta.io) | Classy web development in Go.| https://github.com/codegangsta/martini | MIT
 [Revel](http://revel.github.io/) | A high-productivity web framework for the Go language. | https://github.com/revel/revel | MIT
