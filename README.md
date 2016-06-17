@@ -12,6 +12,8 @@ Name | Description/Comments | Github Repo | License
 [Ninja Framework](http://www.ninjaframework.org/) | A full stack web framework for Java. | https://github.com/ninjaframework/ninja | Apache 2.0
 [Restlet](http://restlet.org) |  Restlet Framework is the most widely used open source solution for Java developers who want to create and use APIs.| https://github.com/restlet/restlet-framework-java |Apache 2.0
 [RestX](http://restx.io/) | The lightweight, modular, feature rich, blazing fast, open source Java REST framework |  https://github.com/restx/restx |Apache 2.0
+[Rapidoid](http://www.rapidoid.org/) | Extremely Fast, Simple and Powerful Java Web Framework! | https://github.com/rapidoid/rapidoid | Apache 2.0
+[Jooby](http://jooby.org/) | Scalable, fast and modular micro web framework for Java |  https://github.com/jooby-project/jooby | Apache 2.0
 
 
 ## Go
